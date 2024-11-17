@@ -5,6 +5,11 @@ I am a Full Stack Software Engineer with a background in Frontend Engineering, c
 
 Technical innovations consistently inspire me, especially the latest developments in AI technology. I am driven by an inherent motivation to learn and grow every day, keeping pace with the rapidly evolving tech landscape.
 
+## 📍 About Me & Contact
+Originally from Quy Nhon City, Vietnam, I am deeply rooted in my central Vietnamese heritage. While our region may still be developing, I am passionate about contributing to my hometown's growth and development through technology and innovation.
+
+📧 **Email:** justonemorenight@gmail.com
+
 ## 🔥 Passion & Motivation
 - Deep enthusiasm for technical challenges and innovation
 - Particular interest in cutting-edge AI technologies
@@ -87,3 +92,4 @@ Diverse projects across various domains:
 
 ## 🌐 Languages
 - English: Proficient in reading and comprehension
+
