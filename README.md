@@ -8,7 +8,7 @@ Technical innovations consistently inspire me, especially the latest development
 ## 📍 About Me & Contact
 Originally from Quy Nhon City, Vietnam, I am deeply rooted in my central Vietnamese heritage. While our region may still be developing, I am passionate about contributing to my hometown's growth and development through technology and innovation.
 
-📧 **Email:** justonemorenight@gmail.com
+📧 **Email:** justonefornight@gmail.com
 
 ## 🔥 Passion & Motivation
 - Deep enthusiasm for technical challenges and innovation
